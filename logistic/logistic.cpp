@@ -7,7 +7,7 @@
 using namespace std;
 vector<vector<double>> dataMat;
 vector<int> dataLabel;
-
+/***************************/
 vector<vector<double>> trainingSet;
 vector<int> trainingLabel;
 vector<vector<double>> testingSet;
